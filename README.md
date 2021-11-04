@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rajshet
-- 👀 I’m interested in getting exposure to new projects
-- 🌱 I’m currently learning finer skills in SDLC
-- 💞️ I’m looking to collaborate on team improvement collaboration on new projects
-- 📫 How to reach me to explore new arena.
+- 👋 Hi, I’m @rajesh shetty
+- 👀 I’m interested in getting exposure to new projects, new environment
+- 🌱 I’m currently managing application support team spoc with various stakeholders
+- 💞️ I’m looking to collaborate on team improvement, better product deliveries and collaboration on new projects
+- 📫 Connect with me via email - rajs.shetty@gmail.com
 
 <!---
 rajshet/rajshet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
